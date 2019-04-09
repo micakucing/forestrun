@@ -53,10 +53,10 @@ class  mid extends Component {
 }
 @media (max-width: 992px) {
  .col-md-7{
-  margin-bottom: 60px !important;
+  margin-bottom: 50px;
  }
  #kkbox {
-      padding-top: 50px;
+      padding-top: 60px !important;
 
     padding: 15px;
     
