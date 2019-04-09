@@ -15,7 +15,7 @@ class foot extends Component {
     font-family: Quicksand;
     color: #fff;
         font-size: 15px;
-    letter-spacing: .3px;
+    letter-spacing: 1px;
   }
    #lok{
       padding-top: 0 !important;
