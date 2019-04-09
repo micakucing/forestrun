@@ -57,7 +57,11 @@ class  mid extends Component {
         return (
 
             <div>
-
+  <Helmet>
+                <meta charSet="utf-8" />
+                <title>Cikole Forest Run | contact page </title>
+                
+             </Helmet>
                           <style dangerouslySetInnerHTML={{__html: minifyCssString(cssString) }} /> 
 <Nav />
                  <div className="site-section">
