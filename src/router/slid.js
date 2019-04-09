@@ -78,7 +78,7 @@ class slid extends Component {
   images={["https://res.cloudinary.com/forestrun/image/upload/v1554798969/h.jpg",
   "https://res.cloudinary.com/forestrun/image/upload/v1554636363/Foto_Forest02.jpg",
   "https://res.cloudinary.com/forestrun/image/upload/v1554797905/p1.jpg","https://res.cloudinary.com/forestrun/image/upload/v1554797905/p2.jpg"]}
-  duration={5} transition={0} />
+  duration={5} transition={0.2} />
             <div className="container">
                 <div id="boxed" className="row align-items-start align-items-md-center justify-content-end">
                     <div className="col-md-12 text-center text-md-center pt-5 pt-md-0" id="lkp">

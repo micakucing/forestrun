@@ -2,7 +2,7 @@
   "name": "cikoleforestrun",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://micakucing.github.io/testrun/",
+  "homepage": "https://cikoleforestrun.co.id/",
   "dependencies": {
     "@brainhubeu/react-carousel": "^1.10.17",
     "express": "^4.16.3",
