@@ -23,7 +23,7 @@ class infox extends Component {
 
     font-family: Quicksand;
     color: #212D61;
-        padding-bottom: 25px;
+        padding-bottom: 90px;
 }
 
 .pswp--animated-in .pswp__bg, .pswp--animated-in .pswp__zoom-wrap {
@@ -64,8 +64,8 @@ class infox extends Component {
     		let param = window.location.pathname;
  
     		const items = [{
-                  src: 'https://res.cloudinary.com/forestrun/image/upload/v1554636282/Medal.jpg',
-                  thumbnail: 'https://res.cloudinary.com/forestrun/image/upload/v1554636282/Medal.jpg',
+                  src: '',
+                  thumbnail: '',
                   w: 3000,
                   h: 1876
               } 
@@ -108,7 +108,7 @@ class infox extends Component {
 Cikole Forest Run adalah rangkaian sport tourism dan wisata alam yang diselenggarakan oleh Wievent yang bekerjasama dengan perum Perhutani Divre Jabar Banten. Kegiatan yang terdiri dari camping ground, olahraga lari marathon, dan edukasi akan hutan Cikole, serta manfaat ekologi masyarakat dalam pemanfaatan dan pelestarian alam hutan di Cikole, Lembang.
                 </p>
                                                       
-                  <PhotoSwipeGallery items={items} options={options} thumbnailContent={getThumbnailContent}/>
+                  
 
               </div>
       </div>

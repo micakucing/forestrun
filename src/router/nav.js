@@ -334,13 +334,13 @@ display: none;
 
         }
         if (c == "contact") {
-            kontak = <a className="activex"><li>&nbsp;&nbsp;Contact &nbsp;&nbsp;</li> </a>
+            kontak = <li><a className="clik">CONTACT</a></li>
             bnrs = ''
             blow = 'padd'
             tops = 'padtops'
 
         } else {
-            kontak = <a id="hrf" href="#/contact" id="ppl"><li>&nbsp;&nbsp;Contact &nbsp;&nbsp;</li></a>
+            kontak = <li><a id="hrf" href="#/contact"  >CONTACT</a></li>
 
 
 
@@ -400,7 +400,7 @@ display: none;
   {abouts}
                          
                         <li><a href="#">REGISTRATION</a></li>
-                        <li><a href="#">CONTACT</a></li></ul>
+                        {kontak}</ul>
 
     </div>   
 </div>
@@ -474,7 +474,7 @@ display: none;
  {homes}
                        {abouts}
                         <li><a href="#">REGISTRATION</a></li>
-                        <li><a href="#">CONTACT</a></li>
+                        {kontak}
                     </ul>
                 </div>
             </nav>
