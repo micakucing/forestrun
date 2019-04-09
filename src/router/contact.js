@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import { default as minifyCssString } from 'minify-css-string'
 import Nav from "./nav";
  import Fot from "./foot";
+ import { Helmet } from "react-helmet";
+
 class  mid extends Component {
     componentDidMount() {}
     render() {
