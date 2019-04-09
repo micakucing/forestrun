@@ -55,6 +55,12 @@ class  mid extends Component {
  .col-md-7{
   margin-bottom: 50px;
  }
+ #kkbox {
+      padding-top: 50px;
+
+    padding: 15px;
+    
+}
 }`
         return (
 
