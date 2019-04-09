@@ -265,7 +265,7 @@ animate();*/
              <div className="tlt"> 404 
              <p className="tilt">
 PAGE NOT FOUND
-<div className="san">Sory we cannot found the page, please go back <a href="https://micakucing.github.io/testrun/#/">HERE</a></div>
+<div className="san">Sory we cannot found the page, please go back <a href="https://cikoleforestrun.co.id/">HERE</a></div>
 
 </p>
              </div>
