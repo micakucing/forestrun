@@ -19,11 +19,17 @@
   font-family: vb;
   src: url('../fonts/verb.woff');
 }
+html{
+  -webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
 body {
   line-height: 1.7;
   color: #8c92a0;
   font-weight: 300;
   font-family: bol;
+
   font-size: 16px; }
 
 ::-moz-selection {
@@ -100,18 +106,8 @@ h1{
     color: #000; }
   .btn.btn-sm {
     font-size: 14px !important;
-    padding: 10px 20px !important; }
-  .btn.btn-primary {
-        border-color: #fff;
-    font-weight: 300;
-    border-radius: 0;
-    letter-spacing: .1em;
-    font-weight: bold;
-    font-size: 11px !important;
-    padding: 13px !important;
-    width: 13%;
-
-    color: #fff; }
+    padding: 10px 30px !important; }
+ 
     .btn-primary {
     color: #fff;
     background-color: transparent;
