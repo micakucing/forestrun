@@ -63,14 +63,14 @@ display: none;
         color: #fff;
   }
   .btn.btn-primary {
-    border-color: #fff;
+   border-color: #fff;
+    border-width: 2px;
     font-weight: 300;
-    border-radius: 0;
+    border-radius: 3px;
     letter-spacing: .1em;
     font-weight: bold;
-    font-size: 13px !important;
-    padding:  10px 30px !important;;
- 
+    font-size: 11px !important;
+    padding: 15px 45px !important;
     color: #fff;
 }
 #plo{
