@@ -70,8 +70,8 @@ display: none;
     letter-spacing: .1em;
     font-weight: bold;
     font-size: 11px !important;
-    padding: 15px 45px !important;
-    color: #fff;
+    padding: 15px 53px !important;   
+     color: #fff;
 }
 #plo{
 margin: 0 auto;
