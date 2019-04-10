@@ -54,7 +54,7 @@ class foot extends Component {
             <img id="mmg"  className="thumb-image loaded" src="https://res.cloudinary.com/forestrun/image/upload/v1554636230/logo_sponsor.png" />
 
    
-                   <div className="obb">Copyright ©2019 by Cikole Forest Run. All rights reserved. | Design by Larva7 Studio.</div>
+                   <div className="obb">Copyright ©2019 by Cikole Forest Run. All rights reserved.</div>
                 </div>
             </div>
         </div>
