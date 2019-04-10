@@ -14,7 +14,7 @@ class  mid extends Component {
           padding-bottom: 0;
         }
         .h3{
-              font-family: mor;
+              font-family: arial;
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1px;
@@ -31,10 +31,12 @@ class  mid extends Component {
     height: 550px;
 }
         body{
-          font-family: Quicksand;
+          font-family: arial;
+    color: #25262a;
         }
         .text-primary{
-          color: #272F5F !important;
+          font-family: arial;
+    color: #25262a !important;
         }
         #hog{
           background: #272F5F;
