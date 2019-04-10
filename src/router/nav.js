@@ -153,7 +153,7 @@ a.clik{
 
 
 @media (min-width: 1200px) {
-    .container {
+    #yyk {
         max-width: 1200px !important;
     }
 }
@@ -420,7 +420,7 @@ display: none;
 </div>
                 <header id={tops} className="site-navbar" role="banner">
             <div className="site-navbar-top">
-                <div  className="container">
+                <div id="yyk" className="container">
                     <div className="order-3 order-md-3 text-right">
                         <div className="site-top-icons">
                              <ul className="sosb">
