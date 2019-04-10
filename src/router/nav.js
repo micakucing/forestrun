@@ -68,7 +68,7 @@ display: none;
     font-weight: 300;
     border-radius: 3px;
     letter-spacing: .1em;
-    font-family: vb;
+    font-family: mor;
     font-weight: bold;
     font-size: 11px !important;
          padding: 20px 56px !important;
