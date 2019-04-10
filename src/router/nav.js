@@ -67,7 +67,7 @@ display: none;
     border-width: 2px;
     font-weight: 300;
     border-radius: 3px;
-    letter-spacing: .1em;
+    letter-spacing: .2em;
     font-family: mor;
     font-weight: bold;
     font-size: 11px !important;
