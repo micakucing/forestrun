@@ -117,9 +117,11 @@ h1{
  color: #c2ff19;
 }
 .btn-primary:hover {
+   
     color: #212D61;
       background-color: #c2ff19;
     border-color: #c2ff19;
+
 }
   /*.btn:hover {
     -webkit-box-shadow: 0 5px 20px -7px rgba(0, 0, 0, 0.9) !important;
