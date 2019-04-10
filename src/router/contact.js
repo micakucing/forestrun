@@ -35,7 +35,7 @@ class  mid extends Component {
     color: #25262a;
         }
         .text-primary{
-          font-family: arial;
+            font-family: Mor;
     color: #25262a !important;
         }
         #hog{
