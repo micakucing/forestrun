@@ -195,7 +195,9 @@ a.clik{
 .container {
     max-width: 600px;
 }
-
+#textim {
+    max-width: 100% !important;
+}
 #lkps {
     padding-bottom: 30px;
     margin-top: 1%;
