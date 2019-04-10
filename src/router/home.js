@@ -72,7 +72,7 @@ class home extends Component {
     .ops{
           font-family: Quicksand;
        color: #25262a;
-    margin: 80px 6%; 
+    margin: 80px 1%; 
     margin-bottom: 0;
         font-size: 20px;
     }
