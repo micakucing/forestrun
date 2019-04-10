@@ -120,7 +120,7 @@ h1{
    
     color: #212D61;
       background-color: #c2ff19;
-    border-color: #c2ff19;
+        border-color: #c2ff19 !important;
 
 }
   /*.btn:hover {
