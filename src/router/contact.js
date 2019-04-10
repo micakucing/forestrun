@@ -80,7 +80,6 @@ class  mid extends Component {
       <div id="kkbox" className="container">
         <div className="row">
           <div className="col-md-12">
-            <h2 className="h3 mb-3 text-black">Get In Touch</h2>
           </div>
           <div className="col-md-7">
 

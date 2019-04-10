@@ -25,7 +25,12 @@ class infox extends Component {
     color: #212D61;
         padding-bottom: 90px;
 }
-
+#googleMap {
+    width: 100%;
+    height: 550px;
+    margin-bottom: 150px;
+}
+     
 .pswp--animated-in .pswp__bg, .pswp--animated-in .pswp__zoom-wrap {
     -webkit-transition: none;
     transition: none!important;
@@ -108,7 +113,8 @@ class infox extends Component {
 Cikole Forest Run adalah rangkaian sport tourism dan wisata alam yang diselenggarakan oleh Wievent yang bekerjasama dengan perum Perhutani Divre Jabar Banten. Kegiatan yang terdiri dari camping ground, olahraga lari marathon, dan edukasi akan hutan Cikole, serta manfaat ekologi masyarakat dalam pemanfaatan dan pelestarian alam hutan di Cikole, Lembang.
                 </p>
                                                       
-                  
+                                   <div id="googleMap"><iframe frameborder="0" height="100%" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253497.13516734913!2d107.50307079265457!3d-6.90342901505421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e6398252477f%3A0x146a1f93d3e815b2!2sBandung%2C+Kota+Bandung%2C+Jawa+Barat!5e0!3m2!1sid!2sid!4v1554809283272!5m2!1sid!2sid" width="100%"></iframe></div>
+
 
               </div>
       </div>

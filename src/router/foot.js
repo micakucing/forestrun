@@ -7,7 +7,7 @@ class foot extends Component {
     render() {
     		const cssString = `
         #mmg{
-              max-width: 49%;
+                 max-width: 45%;
     margin-bottom: 40px;
         }
           .obb{
