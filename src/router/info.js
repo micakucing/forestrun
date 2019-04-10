@@ -21,9 +21,9 @@ class infox extends Component {
     padding-top: 90px;
       font-size: 18px;
 
-    font-family: Quicksand;
-    color: #212D61;
-        padding-bottom: 90px;
+    font-family: arial;
+    color: #25262a;
+       padding-bottom: 30px;
 }
 #googleMap {
     width: 100%;

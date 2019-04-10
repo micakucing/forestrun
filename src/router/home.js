@@ -70,8 +70,9 @@ class home extends Component {
 
     }
     .ops{
-          font-family: Quicksand;
-       color: #25262a;
+     
+    font-family: arial;
+    color: #25262a;
     margin: 80px 1%; 
     margin-bottom: 0;
         font-size: 20px;
@@ -192,7 +193,6 @@ class home extends Component {
                
   <Nav />
   <Slid />
- <Mid />
   <Bot />
   <Fot />
       </div>
