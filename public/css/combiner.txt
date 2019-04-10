@@ -1,0 +1,11 @@
+
+  "Combiner_CSS":{
+    combine:"public/css/bootstrap.min.css",
+    combine:"public/css/magnific-popup.css",
+    combine:"public/css/jquery-ui.css",
+    combine:"public/css/owl.carousel.min.css",
+    combine:"public/css/owl.theme.default.min.css",
+    combine:"public/css/style.css",
+    output:"public/css/output.file.css"
+  }
+  

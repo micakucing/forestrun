@@ -33,9 +33,13 @@ class nav extends Component {
 
     render() {
         const cssString = `
+        #wrps{
+              z-index: 1;
+    position: relative;
           #ccl{
               height: 150px;
               overflow: hidden;
+        }
         }
         .site-navbar .site-navigation .site-menu > li {
      padding: 0 10px;
@@ -346,11 +350,6 @@ display: none;
 
         }
 
-  
-
-
-
-
 
 
         let fadeProperties = {
@@ -375,7 +374,7 @@ display: none;
 
         return (
 
-            <div>
+            <div id="wrps">
                 
 
 
@@ -399,7 +398,7 @@ display: none;
 
   {abouts}
                          
-                        <li><a href="#">REGISTRATION</a></li>
+                        <li><a  id="hrf" href="#">REGISTRATION</a></li>
                         {kontak}</ul>
 
     </div>   
@@ -422,11 +421,7 @@ display: none;
                         <div className="col-6 col-md-4 order-2 order-md-1 site-search-icon text-left">
                         </div>
                         <div id="ccl" className="col-12 mb-3 mb-md-0 col-md-4 order-1 order-md-2 text-center">
-
-
-
     <Fade {...fadeProperties}>
- 
   <div id="plo" data-i={images[0]} className="site-logo">
                                
                             </div>
