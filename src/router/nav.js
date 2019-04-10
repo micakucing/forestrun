@@ -63,7 +63,7 @@ display: none;
         color: #fff;
   }
   .btn.btn-primary {
-   border-color: #fff;
+   border-color: #c2ff19;
     border-width: 2px;
     font-weight: 300;
     border-radius: 3px;
@@ -245,7 +245,7 @@ a.clik{
 
 
  .btn.btn-primary {
-    border-color: #fff;
+    border-color: #c2ff19;
     font-weight: 300;
     border-radius: 0;
     letter-spacing: .1em;
@@ -289,7 +289,7 @@ display: none;
 } 
 @media (max-width: 320px) {
   .btn.btn-primary {
-    border-color: #fff;
+    border-color: #c2ff19;
     font-weight: 300;
     border-radius: 0;
     letter-spacing: .1em;
