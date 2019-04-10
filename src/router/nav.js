@@ -54,7 +54,7 @@ display: none;
 display: none;
   }
    #regme{
-      margin-top: 80px;
+      margin-top: 30px;
 
     }
       #pg{
