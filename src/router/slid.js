@@ -42,7 +42,7 @@ class slid extends Component {
 	text-align: center;
 }
  #mags{
-    max-width: 50%;
+    max-width: 59%;
  }
  #lkp{
   padding-bottom: 30px;
