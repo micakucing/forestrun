@@ -149,6 +149,16 @@ a.clik{
 #textim{
   max-width: 90% !important;
 }
+
+
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1200px !important;
+    }
+}
+
+
 @media (max-width: 1280px) {
 
 #plo{
