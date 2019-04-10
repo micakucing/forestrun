@@ -92,7 +92,8 @@ margin: 0 auto;
     background-repeat: no-repeat;
 }
         #gh{
-          margin-bottom: 30px;
+              margin-bottom: 30px;
+    margin-top: 10px;
         }
 .App{
   text-align: center;
