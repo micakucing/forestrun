@@ -110,7 +110,7 @@ margin: 0 auto;
     position: absolute;
 }
   #lkps{
-        padding-bottom: 39px;
+        padding-bottom: 41px;
     margin-top: 40px;
 }
 a.clik{

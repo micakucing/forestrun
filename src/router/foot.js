@@ -7,12 +7,12 @@ class foot extends Component {
     render() {
     		const cssString = `
         #mmg{
-          max-width: 50%;
-          margin-bottom: 40px;
+              max-width: 49%;
+    margin-bottom: 40px;
         }
           .obb{
         margin: 0 5%;
-    font-family: Quicksand;
+    font-family: mol;
     color: #fff;
         font-size: 15px;
     letter-spacing: 1px;
