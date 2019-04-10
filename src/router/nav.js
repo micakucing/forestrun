@@ -108,8 +108,8 @@ margin: 0 auto;
     position: absolute;
 }
   #lkps{
-    padding-bottom: 39px;
-        margin-top: 50px;
+        padding-bottom: 39px;
+    margin-top: 40px;
 }
 a.clik{
   color: #c2ff19 !important; 
