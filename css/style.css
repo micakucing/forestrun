@@ -117,7 +117,7 @@ h1{
  color: #c2ff19;
 }
 .btn-primary:hover {
-   
+
     color: #212D61;
       background-color: #c2ff19;
         border-color: #c2ff19 !important;
@@ -175,7 +175,7 @@ h1{
 .site-footer {
   background-color: #212D61;
   padding: 4em 0;
-  padding-bottom: 30px; }
+  padding-bottom: 35px; }
   .site-footer ul li {
     margin-bottom: 10px; }
     .site-footer ul li a {
