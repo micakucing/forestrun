@@ -193,6 +193,7 @@ class home extends Component {
                
   <Nav />
   <Slid />
+    <Mid />
   <Bot />
   <Fot />
       </div>
