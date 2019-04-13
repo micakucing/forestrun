@@ -15,6 +15,7 @@
     "parcel-bundler": "^1.12.3",
     "query-string": "^6.4.2",
     "react": "^16.8.6",
+    "react-animated-modal": "^1.1.1",
     "react-animation-components": "^3.0.0",
     "react-background-slider": "^1.2.0",
     "react-crossfade-image": "^1.1.1",

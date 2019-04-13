@@ -8,6 +8,9 @@ import Bot from "./aboutb";
 import Fot from "./foot";
 import { Helmet } from "react-helmet";
 
+
+
+
 class home extends Component {
     componentDidMount() {
  

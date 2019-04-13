@@ -8403,6 +8403,12 @@ rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+react-animated-modal@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/react-animated-modal/-/react-animated-modal-1.1.1.tgz#814f482dad763c64c7b747ebdaab30a6b0c6b592"
+  dependencies:
+    react-transition-group "^2.4.0"
+
 react-animation-components@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/react-animation-components/-/react-animation-components-3.0.0.tgz#e6a67a3cae88c7c53e44c115fc4b59ad7300cb2c"
@@ -8619,7 +8625,7 @@ react-text-truncate@^0.14.0:
   dependencies:
     prop-types "^15.5.7"
 
-react-transition-group@^2.9.0:
+react-transition-group@^2.4.0, react-transition-group@^2.9.0:
   version "2.9.0"
   resolved "https://registry.yarnpkg.com/react-transition-group/-/react-transition-group-2.9.0.tgz#df9cdb025796211151a436c69a8f3b97b5b07c8d"
   dependencies:

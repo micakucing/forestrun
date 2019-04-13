@@ -3,15 +3,26 @@ import { Link } from "react-router-dom";
 import { default as minifyCssString } from 'minify-css-string'
 import Nav from "./nav";
  import Fot from "./foot";
- import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet";
+import Modal from "react-animated-modal";
 
 class  mid extends Component {
+   constructor(props) {
+        super(props);
+
+       this.state = {
+        showModal: false
+    };
+    }
     componentDidMount() {}
     render() {
     		const cssString = `
         .site-section{
           padding-top: 0;
           padding-bottom: 0;
+        }
+        .react-modal-body-close{
+          display: none;
         }
         .h3{
               font-family: arial;
@@ -29,6 +40,10 @@ class  mid extends Component {
 #googleMap {
     width: 100%;
     height: 550px;
+}
+#hog:hover{
+  background: #c2ff19 !important;
+  color: #212D61 !important;
 }
         body{
           font-family: arial;
@@ -73,7 +88,19 @@ class  mid extends Component {
                 
              </Helmet>
                           <style dangerouslySetInnerHTML={{__html: minifyCssString(cssString) }} /> 
+                           <Modal
+                    visible={this.state.showModal}
+                    closemodal={() => this.setState({ showModal: false })}
+                    type="fadeInUp"
+                >
+                    <div className="modal-header"><div className="modal-title h4" id="contained-modal-title-vcenter">Information</div></div>
+
+                    <div className="modal-body"><h4>Not yet implemented </h4><p>sending messages is currently not usable
+</p></div>
+                </Modal>
 <Nav />
+
+
                  <div className="site-section">
 
                  <div className="llps">
@@ -119,7 +146,7 @@ class  mid extends Component {
                 </div>
                 <div className="form-group row">
                   <div className="col-lg-12">
-                    <input id="hog" type="button" className="btn btn-primary btn-lg btn-block" value="Send Message" />
+                    <input id="hog" type="button" onClick={() => this.setState({ showModal: true })} className="btn btn-primary btn-lg btn-block" value="Send Message" />
                   </div>
                 </div>
               </div>
