@@ -23,7 +23,7 @@ class  mid extends Component {
 
                 <div className="site-section block-8" id="grn">
             <div className="container" id="los">
-               <img className="thumb-image loaded" src="https://res.cloudinary.com/forestrun/image/upload/v1554635818/Bagan_Hijau.jpg" />
+               <img className="thumb-image loaded" src="https://res.cloudinary.com/forestrun/image/upload/q_auto:low/v1554635818/Bagan_Hijau.webp" />
                
             </div>
         </div>
