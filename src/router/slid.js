@@ -66,7 +66,7 @@ class slid extends Component {
 
 }
 
- `https://res.cloudinary.com/forestrun/image/upload//v1554635818/Bagan_Hijau.webp
+ ` 
 
         return (
 
