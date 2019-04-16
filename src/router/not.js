@@ -252,7 +252,7 @@ animate();*/
 
                           <div className="gone">
  
- <img id="kl" src="http://www.supah.it/dribbble/008/008.jpg" />
+ <img id="kl" src="https://res.cloudinary.com/forestrun/image/upload/q_auto:low/v1555453912/008.webp" />
 
 
 </div>

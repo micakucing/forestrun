@@ -51,7 +51,7 @@ class foot extends Component {
                 <div className="col-md-12">
   
           
-            <img id="mmg"  className="thumb-image loaded" src="https://res.cloudinary.com/forestrun/image/upload/v1554636230/logo_sponsor.png" />
+            <img id="mmg"  className="thumb-image loaded" src="https://res.cloudinary.com/forestrun/image/upload/q_auto:low/v1554636230/logo_sponsor.webp" />
 
    
                    <div className="obb">Copyright ©2019 by Cikole Forest Run. All rights reserved.</div>

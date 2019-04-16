@@ -77,7 +77,7 @@ display: none;
 #plo{
 margin: 0 auto;
     height: 150px;
-    background-image: url(https://res.cloudinary.com/forestrun/image/upload/v1554636231/Logo_Run.png);
+    background-image: url(https://res.cloudinary.com/forestrun/image/upload/q_auto:low/v1554636231/Logo_Run.webp);
     width: 60%;
     background-position: center;
     background-size: contain;
@@ -86,7 +86,7 @@ margin: 0 auto;
 #plox{
 margin: 0 auto;
     height: 150px;
-    background-image: url(https://res.cloudinary.com/forestrun/image/upload/v1554636231/Logo_Run2.png);
+    background-image: url(https://res.cloudinary.com/forestrun/image/upload/q_auto:low/v1554636231/Logo_Run2.webp);
     width: 100%;
     background-position: center center;
     background-size: contain;
