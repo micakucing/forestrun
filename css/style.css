@@ -62,7 +62,12 @@ h1{
  }
 .text-black {
   color: #000; }
-
+  .tsos{
+    padding-right: 0 !important;
+  }
+.tsos:hover #pg {
+  color: #c2ff19 !important;
+}
 .site-wrap:before {
   -webkit-transition: .3s all ease-in-out;
   -o-transition: .3s all ease-in-out;
@@ -231,7 +236,7 @@ h1{
   .site-navbar .site-top-icons ul li {
     display: inline-block; }
     .site-navbar .site-top-icons ul li a {
-      margin-right: 10px; }
+      margin-right: 0; }
       .site-navbar .site-top-icons ul li a.site-cart {
         display: block;
         position: relative; }
