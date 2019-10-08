@@ -163,16 +163,16 @@ h1{
     height: 2px;
     background: #7971ea; }
   .site-section-heading.text-center:before {
-   content: "";
+    content: "";
     left: 50%;
-    top: 55px;
+    top: 75px;
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
     position: absolute;
-    width: 3%;
+    width: 5%;
     height: 3px;
-    background: #25262a;}
+    background: #25262a; }
    
 .border-top {
   border-top: 1px solid #edf0f5 !important; }
