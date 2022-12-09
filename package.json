@@ -5,7 +5,7 @@
   "homepage": "https://cikoleforestrun.co.id/",
   "dependencies": {
     "@brainhubeu/react-carousel": "^1.10.17",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "express-favicon": "^2.0.1",
     "gh-pages": "^2.0.1",
     "install": "^0.12.2",
